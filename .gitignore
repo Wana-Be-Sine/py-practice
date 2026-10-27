@@ -12,5 +12,6 @@ __pycache__/
 
 empty.py
 
+# 系统文件
 Thumbs.db
 .DS_Store
